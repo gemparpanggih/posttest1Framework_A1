@@ -99,8 +99,8 @@
                         <thead class="mode">
                             <tr class="mode">
                                 <th scope='col'>No</th>
-                                <th scope='col'>Brand</th>
-                                <th scope='col'>Type</th>
+                                <th scope='col'>Golongan</th>
+                                <th scope='col'>Voltase</th>
                                 <th scope='col'>Price</th>
                             </tr>
                         </thead>
